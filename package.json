@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/litten/hexo-theme-yilia/issues"
   },
-  "homepage": "https://github.com/litten/hexo-theme-yilia#readme",
+  "homepage": "index.html",
   "devDependencies": {
     "autoprefixer": "^6.5.1",
     "clean-webpack-plugin": "^0.1.15",
