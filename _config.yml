@@ -1,23 +1,32 @@
-# Site settings
-title: HyG
-email: gaohaoyang126@126.com
-description: 浩阳的博客 前端爱好者
-# > # this means to ignore newlines until "baseurl:"
-#   Write an awesome description for your new site here. You can edit this
-#   line in _config.yml. It will appear in your document head meta (for
-#   Google search results) and in your feed.xml site description.
 
-# baseurl: "" # the subpath of your site, e.g. /blog/
-# url: "http://yourdomain.com" # the base hostname & protocol for your site
-# twitter_username: jekyllrb
-github_username:  Gaohaoyang
-permalink: /:year/:month/:day/:title/
+# Site settings
+title: Project-Gaia
+email:
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "/JekyllTheme-ProjectGaia" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+# User setting
+owner:
+email:
+facebook_username:
+twitter_username:
+github_username:
+address:
+  - line:
+  - line:
+  # Feel free to add more lines here 
+telephone:
+copyright:
+
+# API settings
+google_api_key:
 
 # Build settings
-markdown: kramdown
+gems: [jekyll-paginate]
 
-# highlight
-# 本地用rouge, github上用pygments
-# highlighter: pygments
-# highlighter: rouge
-# highlighter: false
+markdown: kramdown
+# toc_levels: 1..2
