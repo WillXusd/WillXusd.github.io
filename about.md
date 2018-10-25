@@ -22,11 +22,11 @@ title: 关于我
 
 目前技术栈熟练的只有SAP UI5，Angular正在爬坑中，写了一些demo，有兴趣的朋友可以看一看
 <a href="https://github.com/WillXusd"> Will Xu的GitHub </a>
-
-
+<p>
+当然还有我的<a href="https://blog.csdn.net/weixin_41012753"> CSDN</a>
 <p>
 
-同时，关于此博客的模板我是借鉴<a target="_blank" href='https://github.com/leopardpan/leopardpan.github.io/'>@leopardpan</a>同学的基础上做了修改
+同时，关于此博客的模板我是借鉴<a target="_blank" href='https://github.com/leopardpan/leopardpan.github.io/'>@leopardpan</a>同学的基础上做了修改,这是一个很优秀的开源博客模板。
 
 <p> 
 
